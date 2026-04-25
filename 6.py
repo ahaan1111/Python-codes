@@ -1,0 +1,5 @@
+print()
+print("this program is going to make user input capital")
+x = input("enter a str")
+abcc=x.upper()
+print(abcc)
