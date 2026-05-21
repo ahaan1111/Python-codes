@@ -1,0 +1,12 @@
+print("this program is going to take user input as birthday")
+Jake = input("input Jake's ")
+Jak = input("input Jak's ")
+Jp = input("input Jp's ")
+John = input("input John's ")
+James = input("input James's ")
+
+print ("Jake's birthday is ", Jake)
+print ("Jak's birthday is ", Jak)
+print ("Jp's birthday is ", Jp)
+print ("John's birthday is ", John)
+print ("James's birthday is ", James)
