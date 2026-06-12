@@ -10,7 +10,7 @@ print (" the result of the expression is ", m)
 name= "eathan"
 age=1
 
-if name== "jake" or "alex" or age >= 2:
+if name== "jake" or name == "alex" or age >= 2:
     print ("welcome ")
 else: 
     print ("goodbye")
